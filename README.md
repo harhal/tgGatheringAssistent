@@ -1,2 +1,2 @@
-# tgGatheringAssistent
-Telegram bot for managing group events specializaed on tabletop and roleplay games
+# tgGatheringAssistant
+Telegram bot for managing group events specialized on tabletop and roleplay games

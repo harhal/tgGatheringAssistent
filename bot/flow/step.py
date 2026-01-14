@@ -34,6 +34,10 @@ class FlowStep():
     ...
 
 @dataclass
+class RequestApi(FlowStep):
+    request: ApiRequestPkg
+
+@dataclass
 class RequestInput(FlowStep):
     handler: InputHandler
     cash_draft_key: str
